@@ -1,0 +1,2 @@
+# proyectoCarnes
+procesamiento de imagenes
